@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50537670515",
+    "project_id": "odontobd-ec688",
+    "storage_bucket": "odontobd-ec688.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50537670515:android:f9d5b768d08e4008c20706",
+        "android_client_info": {
+          "package_name": "com.example.odontouf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBUDTEigHPrz8dV6IVv44BqvLJwC2WM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
