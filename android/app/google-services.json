@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "50537670515",
+    "firebase_url": "https://odontobd-ec688-default-rtdb.firebaseio.com",
     "project_id": "odontobd-ec688",
     "storage_bucket": "odontobd-ec688.firebasestorage.app"
   },

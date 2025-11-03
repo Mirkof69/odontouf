@@ -46,6 +46,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '50537670515',
     projectId: 'odontobd-ec688',
     authDomain: 'odontobd-ec688.firebaseapp.com',
+    databaseURL: 'https://odontobd-ec688-default-rtdb.firebaseio.com',
     storageBucket: 'odontobd-ec688.firebasestorage.app',
   );
 
@@ -54,6 +55,7 @@ class DefaultFirebaseOptions {
     appId: '1:50537670515:android:f9d5b768d08e4008c20706',
     messagingSenderId: '50537670515',
     projectId: 'odontobd-ec688',
+    databaseURL: 'https://odontobd-ec688-default-rtdb.firebaseio.com',
     storageBucket: 'odontobd-ec688.firebasestorage.app',
   );
 
@@ -62,6 +64,7 @@ class DefaultFirebaseOptions {
     appId: '1:50537670515:ios:3d10e288bcc1659ac20706',
     messagingSenderId: '50537670515',
     projectId: 'odontobd-ec688',
+    databaseURL: 'https://odontobd-ec688-default-rtdb.firebaseio.com',
     storageBucket: 'odontobd-ec688.firebasestorage.app',
     iosBundleId: 'com.example.odontouf',
   );
@@ -71,6 +74,7 @@ class DefaultFirebaseOptions {
     appId: '1:50537670515:ios:3d10e288bcc1659ac20706',
     messagingSenderId: '50537670515',
     projectId: 'odontobd-ec688',
+    databaseURL: 'https://odontobd-ec688-default-rtdb.firebaseio.com',
     storageBucket: 'odontobd-ec688.firebasestorage.app',
     iosBundleId: 'com.example.odontouf',
   );
@@ -81,6 +85,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '50537670515',
     projectId: 'odontobd-ec688',
     authDomain: 'odontobd-ec688.firebaseapp.com',
+    databaseURL: 'https://odontobd-ec688-default-rtdb.firebaseio.com',
     storageBucket: 'odontobd-ec688.firebasestorage.app',
   );
+
 }
